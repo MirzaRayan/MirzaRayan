@@ -123,6 +123,24 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔐 Auth System</h3>
+      <p>A robust backend authentication system featuring JWT-based login & registration, password hashing with bcrypt, protected route middleware, and token refresh logic — production-ready and fully RESTful.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      </p>
+      <a href="https://github.com/MirzaRayan/Auth-System">
+        <img src="https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td width="50%">
+      <!-- Reserved for next project -->
+    </td>
+  </tr>
 </table>
 
 > 📌 *Check my [repositories](https://github.com/MirzaRayan?tab=repositories) for the full project list.*
@@ -133,13 +151,13 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MirzaRayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MirzaRayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github&count_private=true&include_all_commits=false"/>
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaRayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaRayan&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=MirzaRayan&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff" width="60%"/>
 
 <br/><br/>
 
@@ -150,3 +168,26 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
 ---
 
 ## 🎯 Current Goals
+
+- 🔧 Master **System Design** principles for large-scale apps
+- 🌐 Deep dive into **WebSockets** & real-time communication
+- 🚀 Level up on **Advanced Backend** patterns & microservices
+- 📦 Contribute to **Open Source** projects
+- 💼 Land a **full-stack role** and keep shipping
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MirzaRayan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/MirzaRayan)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
