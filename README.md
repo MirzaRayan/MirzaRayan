@@ -133,7 +133,7 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </p>
-      <a href="https://github.com/MirzaRayan/Auth-System">
+      <a href="https://github.com/MirzaRayan/AuthSystem">
         <img src="https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
       </a>
     </td>
