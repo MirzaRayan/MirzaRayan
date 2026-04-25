@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mirza%20Rayan%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Problem%20Solver%20%7C%20Clean%20Code%20Advocate&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%E2%9C%A8;React+%2B+Node.js+%2B+MongoDB+Expert;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5;I+turn+coffee+into+clean+code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%E2%9C%A8;React+%2B+Node.js+%2B+MongoDB+Expert;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5;I+turn+coffee+into+clean+code+%E2%98%95)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MirzaRayan&style=for-the-badge&color=7c3aed&labelColor=0d0d0d)](https://github.com/MirzaRayan)
+![Profile Views](https://komarev.com/ghpvc/?username=MirzaRayan&style=for-the-badge&color=7c3aed&labelColor=0d0d0d)
 [![GitHub followers](https://img.shields.io/github/followers/MirzaRayan?style=for-the-badge&color=7c3aed&labelColor=0d0d0d)](https://github.com/MirzaRayan)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-00c896?style=for-the-badge&labelColor=0d0d0d)](mailto:your@email.com)
 
@@ -44,12 +44,14 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logoColor=white)
 
 **Tools & Workflow**
@@ -58,7 +60,6 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
@@ -71,7 +72,7 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
   <tr>
     <td width="50%">
       <h3>⚖️ HireALawyer</h3>
-      <p>A full-stack legal platform where clients can hire lawyers, view case studies, and admins can evaluate and manage the entire workflow end to end.</p>
+      <p>A full-stack legal platform where clients can hire lawyers, view case studies, and admins manage the entire workflow end to end.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -84,7 +85,7 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
     </td>
     <td width="50%">
       <h3>🩸 BloodLink</h3>
-      <p>A life-saving blood donation platform that connects donors and recipients in real time. Search by blood group and location and send donation requests instantly.</p>
+      <p>A life-saving blood donation platform connecting donors and recipients in real time. Search by blood group and location, send requests instantly.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -112,7 +113,7 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
     </td>
     <td width="50%">
       <h3>🪙 Crypto Portfolio Tracker</h3>
-      <p>A real-time crypto dashboard with live coin prices, market stats, interactive charts, and personal portfolio analytics powered by CoinGecko API.</p>
+      <p>Real-time crypto dashboard with live coin prices, market stats, interactive charts, and portfolio analytics powered by CoinGecko API.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
@@ -126,7 +127,7 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
   <tr>
     <td width="50%">
       <h3>🔐 Auth System</h3>
-      <p>A robust backend authentication system featuring JWT-based login & registration, password hashing with bcrypt, protected route middleware, and token refresh logic — production-ready and fully RESTful.</p>
+      <p>Production-ready backend authentication with JWT login & registration, bcrypt password hashing, protected route middleware, and token refresh logic.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -138,12 +139,12 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
       </a>
     </td>
     <td width="50%">
-      <!-- Reserved for next project -->
+      <!-- Next project coming soon -->
     </td>
   </tr>
 </table>
 
-> 📌 *Check my [repositories](https://github.com/MirzaRayan?tab=repositories) for the full project list.*
+> 📌 Check my [repositories](https://github.com/MirzaRayan?tab=repositories) for the full list.
 
 ---
 
@@ -189,5 +190,9 @@ I'm a **Full Stack MERN Developer** from Pakistan who loves building scalable, c
 ---
 
 <div align="center">
+
+*</> with ☕ by Mirza Rayan · Pakistan 🇵🇰*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
 </div>
